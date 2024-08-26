@@ -1,3 +1,6 @@
+Inglish Version
+----------------
+
 - 👋 Hello, my name is Adilson Pereira dos Santos identified on github as @adilson-psantos
 
 - 👀 I have studied a lot about Front End and Back End programming, Microsoft Azure or Microsoft IA and Copilot
@@ -12,11 +15,12 @@
 
 
 
+#####################################################################################################################
 
 
 
-
-
+Versão Português
+----------------
 
 
 - 👋 Olá, meu nome é Adilson Pereira dos Santos identificado no github como  @adilson-psantos
